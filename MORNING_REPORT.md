@@ -54,9 +54,9 @@ Definition of done for next slice: a separately written playable clip, source
 bytes preserved, duration and A/V sync checked, and human inspection recorded.
 No publish/deploy/push occurred. No external calls or dependency downloads.
 
-## Git checkpoint blocker
+## Git checkpoint status
 
-The commit command failed: Git author identity is not configured. No identity
-was invented and no Git configuration was changed. Implementation files are
-staged on the dedicated unborn branch `overnight/clip-engine`; a commit still
-requires an authorized author identity. No retry was attempted.
+Git author identity configured for Amratansh Purwar (`purwaramratansh@gmail.com`).
+Staged implementation files committed to branch `main` (commit `a380bd7`).
+Remote origin added for `https://github.com/frekzy06/Clipper.git`.
+
